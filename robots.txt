@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://litypar.github.io/sitemap.html.gz
+Sitemap: https://litypar.github.io/app/sitemap.html.gz
+Sitemap: https://litypar.github.io/assets/sitemap.html.gz
+Sitemap: https://litypar.github.io/css/sitemap.html.gz
+Sitemap: https://litypar.github.io/includes/sitemap.html.gz
+Sitemap: https://litypar.github.io/item/sitemap.html.gz
+Sitemap: https://litypar.github.io/src/sitemap.html.gz
